@@ -1,0 +1,2 @@
+# KattisSolutions
+My Kattis Solution
